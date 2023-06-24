@@ -7,37 +7,37 @@ function SiteShowcase() {
       <SiteCard
         link={"https://hololive.hololivepro.com/"}
         imgAlt="hololive"
-        imgSrc={"/../public/images/banner-logo/holo-logo.png"}
+        imgSrc={"/images/banner-logo/holo-logo.png"}
       />
       <SiteCard
         link={"https://holoearth.com/"}
         imgAlt="holoearth"
-        imgSrc={"/../public/images/banner-logo/holoearth.png"}
+        imgSrc={"/images/banner-logo/holoearth.png"}
       />
       <SiteCard
         link={"https://alt.hololive.tv/"}
         imgAlt="holo alt"
-        imgSrc={"/../public/images/banner-logo/hololive_alt.png"}
+        imgSrc={"/images/banner-logo/hololive_alt.png"}
       />
       <SiteCard
         link={"https://holostars.hololivepro.com/"}
         imgAlt="holostars"
-        imgSrc={"/../public/images/banner-logo/hololive_stars.png"}
+        imgSrc={"/images/banner-logo/hololive_stars.png"}
       />
       <SiteCard
         link={"https://hololivemeet.hololivepro.com/"}
         imgAlt="holomeet"
-        imgSrc={"/../public/images/banner-logo/hololiveMEET_hp.png"}
+        imgSrc={"/images/banner-logo/hololiveMEET_hp.png"}
       />
       <SiteCard
         link={"https://hololive.hololivepro.com/special/1937/"}
         imgAlt="hololy"
-        imgSrc={"/../public/images/banner-logo/hololy_hp.png"}
+        imgSrc={"/images/banner-logo/hololy_hp.png"}
       />
       <SiteCard
         link={"https://shop.hololivepro.com/"}
         imgAlt="holoshop"
-        imgSrc={"/../public/images/banner-logo/officialshop_hp.png"}
+        imgSrc={"/images/banner-logo/officialshop_hp.png"}
       />
     </div>
   );

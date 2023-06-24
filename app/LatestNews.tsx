@@ -38,7 +38,7 @@ function LatestNews() {
             href="https://hololivepro.com/en/news/20230623-01-10/"
             headline="COVER Corporation announces partnership with Tokyo Otaku Mode"
             alt="Hololive"
-            imgSrc="/../public/images/hero-article.jpeg"
+            imgSrc="/images/hero-article.jpeg"
             date="2023.06.23"
           />
         </div>
@@ -48,21 +48,21 @@ function LatestNews() {
             alt="hololive"
             headline="hololive English 1st Concert -Connect the World-"
             date="2023.06.16"
-            imgSrc="/../public/images/Connect-the-World-hololige-English-1st-Concert.png"
+            imgSrc="/images/Connect-the-World-hololige-English-1st-Concert.png"
           />
           <ArticleCard
             href="https://hololivepro.com/en/news/20230614-01-9/"
             alt="hololive "
             headline="“hololive Indonesia” First Official Fanbook Confirmed"
             date="2023.05.11"
-            imgSrc="/../public/images/id-article.png"
+            imgSrc="/images/id-article.png"
           />
           <ArticleCard
             href="https://hololivepro.com/en/news/20230511-01-7/"
             alt="Hololive x aniplus collab Café"
             headline="hololive 3rd Generation x ANIPLUS Collaboration Café"
             date="2023.05.11"
-            imgSrc="/../public/images/article4.jpg"
+            imgSrc="/images/article4.jpg"
           />
         </div>
       </div>

@@ -8,7 +8,7 @@ function Loading() {
         <Image
           width={400}
           height={400}
-          src={"/../public/images/common_logo_holopro.svg"}
+          src={"/images/common_logo_holopro.svg"}
           alt="hololive"
         />
       </div>

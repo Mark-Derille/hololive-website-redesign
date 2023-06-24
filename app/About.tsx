@@ -39,7 +39,7 @@ const Banner = () => {
     <div className="mt-24 hidden device-xl:block device-xl:w-[50%] relative">
       <div className="h-[90%] w-[80%] relative mx-auto">
         <Image
-          src={"/../public/images/about_img_chart.png"}
+          src={"/images/about_img_chart.png"}
           alt="hololive"
           fill
           className=""

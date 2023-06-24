@@ -18,28 +18,28 @@ function Talent() {
       <div className="grid laptop:grid-cols-2 gap-y-8 gap-x-12">
         <TalentCard
           href="https://hololive.hololivepro.com/en/talents?gp=hololive"
-          thumbnailSrc="/../public/images/thumbnail-jp-2.jpg"
+          thumbnailSrc="/images/thumbnail-jp-2.jpg"
           thumbnailAlt="Hololive JP"
           logoSrc={LiveJP}
           logoAlt="Hololive Logo"
         />
         <TalentCard
           href="https://hololive.hololivepro.com/en/talents?gp=english"
-          thumbnailSrc="/../public/images/thumbnail-en-1.jpg"
+          thumbnailSrc="/images/thumbnail-en-1.jpg"
           thumbnailAlt=""
           logoSrc={LiveEN}
           logoAlt=""
         />
         <TalentCard
           href="https://hololive.hololivepro.com/en/talents?gp=indonesia"
-          thumbnailSrc="/../public/images/thumbnail-id-3.jpg"
+          thumbnailSrc="/images/thumbnail-id-3.jpg"
           thumbnailAlt=""
           logoSrc={LiveID}
           logoAlt=""
         />
         <TalentCard
           href="https://holostars.hololivepro.com/en/talent?gp=holostars"
-          thumbnailSrc="/../public/images/stars-jp-thumbnail-2.jfif"
+          thumbnailSrc="/images/stars-jp-thumbnail-2.jfif"
           thumbnailAlt=""
           logoSrc={StarsJP}
           logoAlt=""
@@ -47,7 +47,7 @@ function Talent() {
         <div className="desktop:col-span-2 desktop:w-[50%] desktop:mx-auto">
           <TalentCard
             href="https://holostars.hololivepro.com/en/talent?gp=holostars-english"
-            thumbnailSrc="/../public/images/stars-en-thumbnail.png"
+            thumbnailSrc="/images/stars-en-thumbnail.png"
             thumbnailAlt=""
             logoSrc={StarsEN}
             logoAlt=""
